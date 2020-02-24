@@ -1,14 +1,15 @@
+import 'package:chat_online/chat_screen.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 
 void main(){
 
   runApp(MyApp());
-  createMsg('msg3', 'Davi', 'Ivan', 'Response', 'Answering your doubt', '24/02/2020');
-  updateMsg('msg1', {'read': 'true'});
+  //createMsg('msg3', 'Davi', 'Ivan', 'Response', 'Answering your doubt', '24/02/2020');
+  //updateMsg('msg1', {'read': 'true'});
   //readAllMsg();
   //readMsg('msg1');
-  listenMsg();
+  //listenMsg();
 } 
 
 class MyApp extends StatelessWidget {
@@ -19,8 +20,9 @@ class MyApp extends StatelessWidget {
       title: 'Chat Online',      
       theme: ThemeData(
         primarySwatch: Colors.blue,
+        iconTheme: IconThemeData(color: Colors.blue)
       ),
-      home: Container(),
+      home: ChatScreen(),
     );
   }
 }
