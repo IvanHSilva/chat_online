@@ -29,7 +29,7 @@
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\9611c12a11fb129c2d552e558222aed1\\core-1.0.0\\res\\layout-v21\\notification_template_custom_big.xml"
+        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\d70e24e03f743906bbd7470a4dbfa7d0\\core-1.0.2\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar.xml.flat",
@@ -41,7 +41,7 @@
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\9611c12a11fb129c2d552e558222aed1\\core-1.0.0\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\d70e24e03f743906bbd7470a4dbfa7d0\\core-1.0.2\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
@@ -176,6 +176,10 @@
         "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\97f1405823525fafa944ca2f04981a10\\appcompat-1.0.0\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
+        "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\xml_flutter_image_picker_file_paths.xml.flat",
+        "source": "C:\\VSCodes Proj\\chat_online\\build\\image_picker\\intermediates\\packaged_res\\debug\\xml\\flutter_image_picker_file_paths.xml"
+    },
+    {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\97f1405823525fafa944ca2f04981a10\\appcompat-1.0.0\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
@@ -241,7 +245,7 @@
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\9611c12a11fb129c2d552e558222aed1\\core-1.0.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\d70e24e03f743906bbd7470a4dbfa7d0\\core-1.0.2\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple.xml.flat",
@@ -249,7 +253,7 @@
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\9611c12a11fb129c2d552e558222aed1\\core-1.0.0\\res\\layout-v16\\notification_template_custom_big.xml"
+        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\d70e24e03f743906bbd7470a4dbfa7d0\\core-1.0.2\\res\\layout-v16\\notification_template_custom_big.xml"
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\anim-v21_design_bottom_sheet_slide_in.xml.flat",
@@ -341,7 +345,7 @@
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\9611c12a11fb129c2d552e558222aed1\\core-1.0.0\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\d70e24e03f743906bbd7470a4dbfa7d0\\core-1.0.2\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
@@ -361,7 +365,7 @@
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\9611c12a11fb129c2d552e558222aed1\\core-1.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\d70e24e03f743906bbd7470a4dbfa7d0\\core-1.0.2\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable_fui_ic_check_circle_black_128dp.xml.flat",
@@ -373,7 +377,7 @@
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\9611c12a11fb129c2d552e558222aed1\\core-1.0.0\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\d70e24e03f743906bbd7470a4dbfa7d0\\core-1.0.2\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -433,7 +437,7 @@
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\9611c12a11fb129c2d552e558222aed1\\core-1.0.0\\res\\drawable\\notification_tile_bg.xml"
+        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\d70e24e03f743906bbd7470a4dbfa7d0\\core-1.0.2\\res\\drawable\\notification_tile_bg.xml"
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
@@ -637,7 +641,7 @@
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\9611c12a11fb129c2d552e558222aed1\\core-1.0.0\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\d70e24e03f743906bbd7470a4dbfa7d0\\core-1.0.2\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\color_design_tint_password_toggle.xml.flat",
@@ -693,7 +697,7 @@
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\9611c12a11fb129c2d552e558222aed1\\core-1.0.0\\res\\layout\\notification_action_tombstone.xml"
+        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\d70e24e03f743906bbd7470a4dbfa7d0\\core-1.0.2\\res\\layout\\notification_action_tombstone.xml"
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -797,7 +801,7 @@
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\9611c12a11fb129c2d552e558222aed1\\core-1.0.0\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\d70e24e03f743906bbd7470a4dbfa7d0\\core-1.0.2\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\interpolator_mtrl_linear_out_slow_in.xml.flat",
@@ -901,7 +905,7 @@
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\9611c12a11fb129c2d552e558222aed1\\core-1.0.0\\res\\layout\\notification_action.xml"
+        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\d70e24e03f743906bbd7470a4dbfa7d0\\core-1.0.2\\res\\layout\\notification_action.xml"
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\anim_design_snackbar_out.xml.flat",
@@ -977,7 +981,7 @@
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\9611c12a11fb129c2d552e558222aed1\\core-1.0.0\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\d70e24e03f743906bbd7470a4dbfa7d0\\core-1.0.2\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\color_mtrl_btn_bg_color_selector.xml.flat",
@@ -997,7 +1001,7 @@
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\9611c12a11fb129c2d552e558222aed1\\core-1.0.0\\res\\layout-v21\\notification_template_icon_group.xml"
+        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\d70e24e03f743906bbd7470a4dbfa7d0\\core-1.0.2\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -1025,7 +1029,7 @@
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\9611c12a11fb129c2d552e558222aed1\\core-1.0.0\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\d70e24e03f743906bbd7470a4dbfa7d0\\core-1.0.2\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable_design_password_eye.xml.flat",
@@ -1077,7 +1081,7 @@
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\9611c12a11fb129c2d552e558222aed1\\core-1.0.0\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\d70e24e03f743906bbd7470a4dbfa7d0\\core-1.0.2\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_bar.xml.flat",
@@ -1177,7 +1181,7 @@
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\9611c12a11fb129c2d552e558222aed1\\core-1.0.0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\d70e24e03f743906bbd7470a4dbfa7d0\\core-1.0.2\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_indicator_material.xml.flat",
@@ -1457,7 +1461,7 @@
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\9611c12a11fb129c2d552e558222aed1\\core-1.0.0\\res\\layout-v21\\notification_action.xml"
+        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\d70e24e03f743906bbd7470a4dbfa7d0\\core-1.0.2\\res\\layout-v21\\notification_action.xml"
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
@@ -1469,7 +1473,7 @@
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\9611c12a11fb129c2d552e558222aed1\\core-1.0.0\\res\\drawable\\notification_bg.xml"
+        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\d70e24e03f743906bbd7470a4dbfa7d0\\core-1.0.2\\res\\drawable\\notification_bg.xml"
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -1505,7 +1509,7 @@
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\9611c12a11fb129c2d552e558222aed1\\core-1.0.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\d70e24e03f743906bbd7470a4dbfa7d0\\core-1.0.2\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
@@ -1657,7 +1661,7 @@
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\9611c12a11fb129c2d552e558222aed1\\core-1.0.0\\res\\layout-v21\\notification_action_tombstone.xml"
+        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\d70e24e03f743906bbd7470a4dbfa7d0\\core-1.0.2\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -1721,7 +1725,7 @@
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\9611c12a11fb129c2d552e558222aed1\\core-1.0.0\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\d70e24e03f743906bbd7470a4dbfa7d0\\core-1.0.2\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\layout_abc_cascading_menu_item_layout.xml.flat",
@@ -1813,7 +1817,7 @@
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\9611c12a11fb129c2d552e558222aed1\\core-1.0.0\\res\\layout\\notification_template_part_time.xml"
+        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\d70e24e03f743906bbd7470a4dbfa7d0\\core-1.0.2\\res\\layout\\notification_template_part_time.xml"
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -1945,7 +1949,7 @@
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\9611c12a11fb129c2d552e558222aed1\\core-1.0.0\\res\\layout\\notification_template_icon_group.xml"
+        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\d70e24e03f743906bbd7470a4dbfa7d0\\core-1.0.2\\res\\layout\\notification_template_icon_group.xml"
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\color_mtrl_bottom_nav_item_tint.xml.flat",
@@ -1989,7 +1993,7 @@
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\9611c12a11fb129c2d552e558222aed1\\core-1.0.0\\res\\drawable-v21\\notification_action_background.xml"
+        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\d70e24e03f743906bbd7470a4dbfa7d0\\core-1.0.2\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable-v21_fui_idp_button_background_email.xml.flat",
@@ -2077,7 +2081,7 @@
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\9611c12a11fb129c2d552e558222aed1\\core-1.0.0\\res\\drawable\\notification_icon_background.xml"
+        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\d70e24e03f743906bbd7470a4dbfa7d0\\core-1.0.2\\res\\drawable\\notification_icon_background.xml"
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
@@ -2121,7 +2125,7 @@
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\9611c12a11fb129c2d552e558222aed1\\core-1.0.0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\d70e24e03f743906bbd7470a4dbfa7d0\\core-1.0.2\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_design_ic_visibility_off.png.flat",
@@ -2213,11 +2217,11 @@
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\9611c12a11fb129c2d552e558222aed1\\core-1.0.0\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\d70e24e03f743906bbd7470a4dbfa7d0\\core-1.0.2\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\9611c12a11fb129c2d552e558222aed1\\core-1.0.0\\res\\drawable\\notification_bg_low.xml"
+        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\d70e24e03f743906bbd7470a4dbfa7d0\\core-1.0.2\\res\\drawable\\notification_bg_low.xml"
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable_fui_ic_mail_white_24dp.xml.flat",
@@ -2253,7 +2257,7 @@
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\9611c12a11fb129c2d552e558222aed1\\core-1.0.0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+        "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\d70e24e03f743906bbd7470a4dbfa7d0\\core-1.0.2\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "C:\\VSCodes Proj\\chat_online\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",

@@ -14,6 +14,8 @@ MERGED from [:cloud_firestore] C:\VSCodes Proj\chat_online\build\cloud_firestore
 MERGED from [:cloud_firestore_web] C:\VSCodes Proj\chat_online\build\cloud_firestore_web\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
 MERGED from [:firebase_core] C:\VSCodes Proj\chat_online\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
 MERGED from [:firebase_core_web] C:\VSCodes Proj\chat_online\build\firebase_core_web\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker] C:\VSCodes Proj\chat_online\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-22:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\VSCodes Proj\chat_online\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\6083560af12ecc889f75b47771ac421f\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\4c387ac4fa0e21e11152ff324aa6f8b5\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:2:1-109:12
 MERGED from [com.google.firebase:firebase-core:17.0.0] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\bbf427918e1b1d92339466e939b6c01d\firebase-core-17.0.0\AndroidManifest.xml:2:1-9:12
@@ -62,7 +64,7 @@ MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ivan\.gradle\caches\
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\4430caf033351bf8bd611fd25ff872ef\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\aa35449f6c5d7f10eb74f0fdc3d92a05\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\17612d7f4ebb376b68bde4b9b7c17fa7\vectordrawable-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.0.0] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\9611c12a11fb129c2d552e558222aed1\core-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.0.2] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\d70e24e03f743906bbd7470a4dbfa7d0\core-1.0.2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\22d28248b59c64264bea0910f6fceff1\lifecycle-process-2.0.0\AndroidManifest.xml:17:1-30:12
 MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\4396af4aa6942a5e1b036017401b4152\lifecycle-service-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\b6427a0c69cf7bd97431c737439f5d91\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
@@ -109,6 +111,8 @@ MERGED from [:cloud_firestore] C:\VSCodes Proj\chat_online\build\cloud_firestore
 MERGED from [:cloud_firestore] C:\VSCodes Proj\chat_online\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
 MERGED from [:firebase_core] C:\VSCodes Proj\chat_online\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
 MERGED from [:firebase_core] C:\VSCodes Proj\chat_online\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:image_picker] C:\VSCodes Proj\chat_online\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-20:19
+MERGED from [:image_picker] C:\VSCodes Proj\chat_online\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-20:19
 MERGED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\4c387ac4fa0e21e11152ff324aa6f8b5\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:15:5-107:19
 MERGED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\4c387ac4fa0e21e11152ff324aa6f8b5\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:15:5-107:19
 MERGED from [com.google.firebase:firebase-core:17.0.0] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\bbf427918e1b1d92339466e939b6c01d\firebase-core-17.0.0\AndroidManifest.xml:7:5-20
@@ -159,8 +163,8 @@ MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\User
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\147dfea010bbe51c755b14ea7e109e2a\play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\63ebfa0d4271a6f427ac88426eed182d\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
 MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\63ebfa0d4271a6f427ac88426eed182d\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.core:core:1.0.0] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\9611c12a11fb129c2d552e558222aed1\core-1.0.0\AndroidManifest.xml:22:5-89
-MERGED from [androidx.core:core:1.0.0] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\9611c12a11fb129c2d552e558222aed1\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\d70e24e03f743906bbd7470a4dbfa7d0\core-1.0.2\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\d70e24e03f743906bbd7470a4dbfa7d0\core-1.0.2\AndroidManifest.xml:22:5-89
 MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\22d28248b59c64264bea0910f6fceff1\lifecycle-process-2.0.0\AndroidManifest.xml:22:5-28:19
 MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\22d28248b59c64264bea0910f6fceff1\lifecycle-process-2.0.0\AndroidManifest.xml:22:5-28:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\41cd75cc8179a0c0671aea359e2094b9\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
@@ -168,7 +172,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Iv
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\7b96b6854f6898fa52471d9687d1248e\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\7b96b6854f6898fa52471d9687d1248e\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.0.0] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\9611c12a11fb129c2d552e558222aed1\core-1.0.0\AndroidManifest.xml:22:18-86
+		ADDED from [androidx.core:core:1.0.2] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\d70e24e03f743906bbd7470a4dbfa7d0\core-1.0.2\AndroidManifest.xml:22:18-86
 	android:label
 		ADDED from C:\VSCodes Proj\chat_online\android\app\src\main\AndroidManifest.xml:10:9-36
 	android:icon
@@ -227,6 +231,10 @@ MERGED from [:firebase_core] C:\VSCodes Proj\chat_online\build\firebase_core\int
 MERGED from [:firebase_core] C:\VSCodes Proj\chat_online\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:firebase_core_web] C:\VSCodes Proj\chat_online\build\firebase_core_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:firebase_core_web] C:\VSCodes Proj\chat_online\build\firebase_core_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] C:\VSCodes Proj\chat_online\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] C:\VSCodes Proj\chat_online\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\VSCodes Proj\chat_online\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\VSCodes Proj\chat_online\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\6083560af12ecc889f75b47771ac421f\multidex-2.0.0\AndroidManifest.xml:20:5-43
 MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\6083560af12ecc889f75b47771ac421f\multidex-2.0.0\AndroidManifest.xml:20:5-43
 MERGED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\4c387ac4fa0e21e11152ff324aa6f8b5\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:8:5-10:41
@@ -323,8 +331,8 @@ MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Iv
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\aa35449f6c5d7f10eb74f0fdc3d92a05\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\17612d7f4ebb376b68bde4b9b7c17fa7\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\17612d7f4ebb376b68bde4b9b7c17fa7\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.0] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\9611c12a11fb129c2d552e558222aed1\core-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.0] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\9611c12a11fb129c2d552e558222aed1\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\d70e24e03f743906bbd7470a4dbfa7d0\core-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\d70e24e03f743906bbd7470a4dbfa7d0\core-1.0.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\22d28248b59c64264bea0910f6fceff1\lifecycle-process-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\22d28248b59c64264bea0910f6fceff1\lifecycle-process-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\4396af4aa6942a5e1b036017401b4152\lifecycle-service-2.0.0\AndroidManifest.xml:20:5-44
@@ -445,6 +453,30 @@ ADDED from [:firebase_core] C:\VSCodes Proj\chat_online\build\firebase_core\inte
 		ADDED from [:firebase_core] C:\VSCodes Proj\chat_online\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
 	android:name
 		ADDED from [:firebase_core] C:\VSCodes Proj\chat_online\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-123
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:image_picker] C:\VSCodes Proj\chat_online\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:image_picker] C:\VSCodes Proj\chat_online\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:image_picker] C:\VSCodes Proj\chat_online\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from [:image_picker] C:\VSCodes Proj\chat_online\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-78
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] C:\VSCodes Proj\chat_online\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:9-19:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] C:\VSCodes Proj\chat_online\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-47
+	android:authorities
+		ADDED from [:image_picker] C:\VSCodes Proj\chat_online\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-74
+	android:exported
+		ADDED from [:image_picker] C:\VSCodes Proj\chat_online\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:image_picker] C:\VSCodes Proj\chat_online\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] C:\VSCodes Proj\chat_online\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-18:75
+	android:resource
+		ADDED from [:image_picker] C:\VSCodes Proj\chat_online\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-72
+	android:name
+		ADDED from [:image_picker] C:\VSCodes Proj\chat_online\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-67
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.firebaseui:firebase-ui-auth:4.3.1] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\4c387ac4fa0e21e11152ff324aa6f8b5\jetified-firebase-ui-auth-4.3.1\AndroidManifest.xml:12:5-79
 MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\Ivan\.gradle\caches\transforms-2\files-2.1\1b73700d8d1de235bf863aecac5e29cd\jetified-firebase-storage-17.0.0\AndroidManifest.xml:26:5-79
